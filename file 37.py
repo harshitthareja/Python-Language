@@ -11,7 +11,7 @@
 x = 10
 def my_function():
     global x
-    x = 4
+    x = 5
     y = 5
     print(y)
 my_function()
